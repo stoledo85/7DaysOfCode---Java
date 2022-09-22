@@ -6,8 +6,8 @@
 | -------------  | --- |
 | :sparkles: Nome        | **7DaysOfCode-Java**
 | :label: Tecnologias | java, html, api (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | [https://github.com/stoledo85/7DaysOfCode-Java]
+| :fire: Desafio     | [https://7daysofcode.io/matricula/java]
 
 ## Detalhes do projeto
 <p>    Durante os 7 Days de Java, você vai praticar algo que além de importantíssimo, será muito divertido. Você irá utilizar apenas APIs do Java para consumir uma API, puxando o ranking dos top 250 filmes do IMDB e devolvendo um JSON. Posteriormente, você irá começar a organizar uma modelagem que trabalhe com filmes (e talvez séries também) usando classes e interfaces. Você também terá que trabalhar com construtores, abstrações, comparadores, entre muitos outros conceitos que colocarão à prova os seus conhecimentos de Java.</p>
