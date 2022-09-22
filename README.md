@@ -1,5 +1,15 @@
-## Desafio proposto
+# 7DaysOfCode-Java
 
+7 dias de desafio Java.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **7DaysOfCode-Java**
+| :label: Tecnologias | java, html, api (tecnologias utilizadas)
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
+
+## Detalhes do projeto
 <p>    Durante os 7 Days de Java, você vai praticar algo que além de importantíssimo, será muito divertido. Você irá utilizar apenas APIs do Java para consumir uma API, puxando o ranking dos top 250 filmes do IMDB e devolvendo um JSON. Posteriormente, você irá começar a organizar uma modelagem que trabalhe com filmes (e talvez séries também) usando classes e interfaces. Você também terá que trabalhar com construtores, abstrações, comparadores, entre muitos outros conceitos que colocarão à prova os seus conhecimentos de Java.</p>
 
 ## Quais serão os desafios:
@@ -13,4 +23,4 @@
 | `4`|Chegou a hora de brincar com HTML! No desafio de hoje, você vai trabalhar com a saída e gerar uma página HTML a partir da lista de objetos que você obteve anteriormente. A ideia será criar uma página HTML onde você possa ver as informações sobre o filme, incluindo o pôster e a nota.|OK!|
 | `5`|Nesse ponto, você terá feito muitos avanços na modelagem do código, mas provavelmente ainda terá códigos expostos. A sua tarefa será encapsular algumas das chamadas desenvolvidas até aqui em novas classes|OK!|
 | `6`|Aqui você verá um ponto importante e bem de alto nível. O seu desafio será deixar o seu código mais genérico, ou seja, preparado para receber dados de outras APIs. Para isso, você usará interfaces.|OK!|
-| `7`|No sétimo e último dia do desafio, você terá a possibilidade de ordenar a sua lista com base em diferentes atributos, utilizando a classe Collections e as interfaces Comparable e Comparator. Você irá fechar com chave de ouro!| |
+| `7`|No sétimo e último dia do desafio, você terá a possibilidade de ordenar a sua lista com base em diferentes atributos, utilizando a classe Collections e as interfaces Comparable e Comparator. Você irá fechar com chave de ouro!|OK!|
